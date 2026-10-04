@@ -1,5 +1,4 @@
-# Welcome to 
-# My Portfolio
+# Welcome to my portfolio~
 
 A bespoke, responsive portfolio for an AI/software developer building toward computational neuroscience.
 
